@@ -11,6 +11,7 @@ It helps you manage assignments, stay organized, and get notified before deadlin
 - 🔔 Sends reminder notifications for upcoming deadlines  
 - 💾 Saves login details and API URL securely in your Documents folder  
 - ⏳ Shows deadline assignments on top
+- ❗ Shows assignment details when clicked on an assignment
 - 🖥️ Runs in the background through the **system tray**  
 - 🎨 Clean and user-friendly interface  
 - ⚙️ Simple setup — no installation required  
