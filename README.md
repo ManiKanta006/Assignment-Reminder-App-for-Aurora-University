@@ -1,4 +1,4 @@
-# 📝 To-Do App
+# 📝 ToDo App
 
 A simple and elegant **Assignment Reminder App** built with **Python (PyQt5)** — now available as a **Windows executable (.exe)**.  
 It helps you manage assignments, stay organized, and get notified before deadlines — all from your desktop.
@@ -10,6 +10,7 @@ It helps you manage assignments, stay organized, and get notified before deadlin
 - ✅ Fetches assignments automatically from your Aurora portal  
 - 🔔 Sends reminder notifications for upcoming deadlines  
 - 💾 Saves login details and API URL securely in your Documents folder  
+- ⏳ Shows deadline assignments on top
 - 🖥️ Runs in the background through the **system tray**  
 - 🎨 Clean and user-friendly interface  
 - ⚙️ Simple setup — no installation required  
@@ -17,23 +18,24 @@ It helps you manage assignments, stay organized, and get notified before deadlin
 ---
 ## 🧭 How to Use
 
-1. **Download and extract** the ToDoApp folder from the release section.  
-2. Run `ToDoApp.exe`.  
+1. **Download and extract** the ToDo App folder from the release section.  
+2. Run `ToDo App.exe`.  
 3. On first launch, enter:
    - Your **Login Details** (in JSON format)  
-   - Your **Assignment API URL**
+   - Your **Admission Number**
 4. Click **OK** to save.  
 5. Your assignments will appear in a table view.  
-6. Closing the window hides it to the **system tray** (it keeps running in the background).  
-7. To exit completely, right-click the tray icon → **Quit**.
+6. Click on Due Date to sort according to deadlines.  
+7. Closing the window hides it to the **system tray** (it keeps running in the background).  
+8. To exit completely, right-click the tray icon → **Quit**.
 
 ---
 
 ## 🔧 SetUp
 - Login Details
-    - [Watch How to Get Login Details](readme-assets/LoginDetails.mp4)
-- Assingment URL
-    - [Watch How to Get Assignment URL](readme-assets/Assignment%20URL.mp4)
+    - [Watch How to Get Login Details](https://drive.google.com/file/d/1UDcrFqtZuyTF9-l1Lylls01ead1aWlN1/view?usp=sharing)
+- Admission Number
+    - Found in ERP Dashboard
 - Startup
     - Open the app folder and create shoutcut of the app (Right click -> Show more options -> Create Shortcut)
     - Click on the shortcut and press Ctrl + X 
@@ -53,7 +55,7 @@ It helps you manage assignments, stay organized, and get notified before deadlin
 **Tekumalla Manikanta**
 
 ---
-> ⚠️ Keep the **Every** folder in the same directory as `ToDoApp.exe`.  
+> ⚠️ Keep the **Every** folder in the same directory as `ToDo App.exe`.  
 > The icon and resources won’t load if the folder is missing.
 ---
 
